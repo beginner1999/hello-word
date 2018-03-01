@@ -1,2 +1,5 @@
 # hello-word
-I am free,so I create it,it's my first repository
+It's my first repository
+
+
+Hello everbody!I am a beginner in programming,I know the foudation of C and python
